@@ -7,4 +7,4 @@ Merges Item Batch
 mit
 
 ## Documentation
-[![Watch the video](https://img.youtube.com/vi/SiaM3i_cD8Q/0.jpg)](https://www.youtube.com/watch?v=SiaM3i_cD8Q)
+[![Watch the video](https://img.youtube.com/vi/l3tRuEwWXEM/0.jpg)](https://www.youtube.com/watch?v=l3tRuEwWXEM)
